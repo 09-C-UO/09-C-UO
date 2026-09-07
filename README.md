@@ -6,9 +6,3 @@
 
 </div>
 
-<details>
-<summary>Static version</summary>
-
-![09-C-UO profile with a static ASCII portrait](./assets/profile-static.png)
-
-</details>
