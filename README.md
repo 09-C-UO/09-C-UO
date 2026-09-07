@@ -5,10 +5,3 @@
 [Repositories](https://github.com/09-C-UO?tab=repositories) · [Stars](https://github.com/09-C-UO?tab=stars)
 
 </div>
-
-<details>
-<summary>Static version</summary>
-
-![09-C-UO profile with a static ASCII portrait](./assets/profile-static.png)
-
-</details>
